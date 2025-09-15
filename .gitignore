@@ -1,0 +1,30 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.elf
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Editor/OS files
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
