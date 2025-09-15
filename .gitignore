@@ -19,6 +19,12 @@
 /bin/
 /obj/
 
+# Compressed submission files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
 # Editor/OS files
 *~
 *.swp
