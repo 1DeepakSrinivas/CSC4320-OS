@@ -34,3 +34,6 @@ Thumbs.db
 # IDE/project files
 .vscode/
 .idea/
+
+#Python 
+homeworks/assignment2/.venv/
