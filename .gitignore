@@ -35,5 +35,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-#Python 
+#Python environment
 homeworks/assignment2/.venv/
+
+#LaTeX files
+*.tex
